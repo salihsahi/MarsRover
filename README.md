@@ -52,8 +52,8 @@ dotnet run
 
 
 ## Running the tests
-From the terminal, in the project root, simply run:
+Run the following from the terminal in the /MarsRover directory:
+
 ```
 dotnet test
-Or run them from each test project directory (on the MarsRover.Tests subdir) or directly from Visual Studio.
 ```
