@@ -39,7 +39,7 @@ MMRMMRMRRM
 Make sure you have the .NET Core SDK installed on your machine. Then do:
 ```
 git clone https://github.com/salihsahi/MarsRover.git
-cd MarsRover
+cd MarsRover/MarsRover
 dotnet run
 ```
 
